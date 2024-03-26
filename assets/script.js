@@ -39,21 +39,27 @@ const todoList = [{
   
   function addTodo() {
     const inputElement = document.querySelector('.js-items-input');
-    const listItems = inputElement.value;
+    const listItems = inputElement.value.trim(); 
   
     const dateInputElement = document.querySelector('.js-due-date-input-area');
-    const dueDate = dateInputElement.value;
+    const dueDate = dateInputElement.value.trim(); 
+    
+    if (listItems === '' || dueDate === '') {
+        alert("Please enter both the task and the due date.");
+        return; 
+    }
+  
     
     todoList.push({
-      listItems,
-      dueDate
-  
+        listItems,
+        dueDate
     });
-    
+  
     
     inputElement.value = '';
+    dateInputElement.value = '';
   
+    
     makeAvailableTodoList();
-  
-  };
+  }
   
