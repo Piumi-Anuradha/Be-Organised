@@ -2,7 +2,7 @@
 
 "Be organised and achieve the dreams" application is designed to be responsive that allow visitors to view on a range of devices. And also it helps the visitors to be organised in their day today work and to reach the dreams.
 
-![Am I responsive](assets/images/main.PNG)
+![Am I responsive](assets/images/main.png)
 
 **********************
 
@@ -58,7 +58,7 @@
 
 ### Color scheme
 
-![Color themes](assets/images/Coolors.PNG)
+![Color themes](assets/images/coolers.png)
 
 The web application uses a palette of colours that are used in BE ORGANISED AND ACHIEVE THE DREAMS logo, images, buttons and menues. The colour palette was created using the Coolors website.
 
@@ -75,19 +75,19 @@ Wireframes were created for mobile, tablet and desktop.
 
 ### Home Page Wireframe
 
-![Be Organised](assets/images/FrontPage.png)
+![Be Organised](assets/images/frontpage.png)
 **********************
 
 
 ### Todolist to be prepared Wireframe
-![todolist to be prepared](assets/images/ToDoListPage.png)
+![todolist to be prepared](assets/images/to-do-list.png)
 **********************
 ### Todolist to be prepared Wireframe with alert box
-![todolist to be prepared](assets/images/ToDoListPagewithAlertbox.png)
+![todolist to be prepared](assets/images/to-do-list-page-with-alert-box.png)
 **********************
 
 ### Timer Wireframe
-![The Timer to Stay Focused](assets/images/StopWatch.png)
+![The Timer to Stay Focused](assets/images/stop-watch.png)
 **********************
 
 ## FEATURES
@@ -201,23 +201,23 @@ The screen shots are as follows:
 ### HTML W3C Validator for index, stopwatch and todolist pages
 ![index.html](assets/images/index-css-validation.png)
 *********
-![todolist.html](assets/images/todolist-no-errors.PNG)
+![todolist.html](assets/images/todolist-no-errors.png)
 *********
-![stopwatch.html](assets/images/stopwatch-no-errors.PNG)
+![stopwatch.html](assets/images/stopwatch-no-errors.png)
 ********
 
 ### CSS W3C Validator for index.css, stopwatch and for the todo list page
 
 
-![index.css](assets/images/index-css-validation.PNG)
+![index.css](assets/images/index-css-validation.png)
 ********
-![stopwatch.css](assets/images/stopwatch-css-validation.PNG)
+![stopwatch.css](assets/images/stopwatch-css-validation.png)
 **********
-![todolist.css](assets/images/todolist-css-validation.PNG)
+![todolist.css](assets/images/todolist-css-validation.png)
 ***********
 
 ### JSHint for Javascript
-![jshint](assets/images/todolist-jshint.PNG)
+![jshint](assets/images/todolist-jshin.png)
 
 *********
 
@@ -248,7 +248,7 @@ Chrome developer, Lighthouse has been used to test the performance, accesibility
 Lighthouse
 I used Lighthouse within the Chrome Developer Tools to allow me to test the performance, accessibility, best practices and SEO of the website.
 **************
-![lighthouse](assets/images/lighthouse.PNG)
+![lighthouse](assets/images/lighthouse.png)
 ***********
 
 ## CREDIT
