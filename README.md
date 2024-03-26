@@ -199,7 +199,7 @@ W3C Validator has been used to validate all three HTML pages and CSS pages.
 The screen shots are as follows:
 
 ### HTML W3C Validator for index, stopwatch and todolist pages
-![index.html](assets/images/index-css-validation.PNG)
+![index.html](assets/images/index-css-validation.png)
 *********
 ![todolist.html](assets/images/todolist-no-errors.PNG)
 *********
