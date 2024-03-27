@@ -250,21 +250,6 @@ By documenting the results of the testings and providing the recommendations for
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-Considering the automation and manual testing, in this application manual testings have been performed. And also other reasons for performing manual testings are, 
-* Human observation can be used in this application which can be useful to offer user-friendly system.
-* Automation tests can be time consuming when testing small changes in the codes. 
-
 ### W3C Validator
 W3C Validator has been used to validate all three HTML pages and CSS pages.
 The screen shots are as follows:
@@ -296,7 +281,7 @@ The screen shots are as follows:
 
 The following screenshot shows the first time visitor goals and these goals have been achieved below.
  *****************
-![Alt text](image.png)
+![Final Product that the users expected](image.png)
 
 **********************
 
