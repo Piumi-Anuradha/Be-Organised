@@ -281,7 +281,8 @@ The screen shots are as follows:
 
 The following screenshot shows the first time visitor goals and these goals have been achieved below.
  *****************
-![Final Product that the users expected](image.png)
+![Final Product that the users expected](assets/images/final.png)
+![Final Product that the users expected](assets/images/final-to-do.png)
 
 **********************
 
