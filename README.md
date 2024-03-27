@@ -207,15 +207,40 @@ The objectives of the functionality testing is to assess whether the features an
 - Test Case 3: Functioning of the "Delete" button.
      Result: Pass
 
-!["Add" button without entering required todo items ](assets/images/stop-watch.png)
+!["Add" button without entering required todo items ](assets/images/add-button.png)
+![After fixing the "Add" button](assets/images/after-fixing-add.png)
 
 
-#### Userbility Testing 
+### Userbility Testing 
 The objective of the userbility testing is to evaluate the ease of use and user experience.
 
+##### Userility Testing Results
+- Testing Approach:
+     Users were asked to add new items to the todo list and delete an existing items. And they were asked to provide feedbacks on the ease of use the application
+- User Feedback: Users found the navigation easier and very straight forward adding of items to the list.
+- Key Findings: Navigation recieved positive feedback. However the visibility of the buttons needed  improvements and fixed.
+
+### Responsiveness Testing
+
+The objective of Responsive Testing is to determine if the application displays correctly accross various devices and screen sizes.
+
+#### Responsive Testing Results
+- Testing Devices: Desktop (1920x1080), tablet(iPad), Smartphone(iPhone X)
+- Test Results: The application displayed well on all the devices.
+- Screenshots: The following is an attached screenshot of the application in all the devices.
 
 
+### Summary and Recommendations
 
+- Overall Summary:The application performed well in most of the functional testings and fixed the   other minor issues in functioning.
+
+- Recommendations: 
+     - Ensure alert massages are displayed for invalid or empty inputs
+     - Check for consistency in different devices.
+     - Improve the visibility of the buttons
+
+
+By documenting the results of the testings and providing the recommendations for actions, it is ensured that the functionality, userbility and responsivenes of the application areeffectively evaluated and improved with a better experience for the users. 
 
 
 
