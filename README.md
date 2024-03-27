@@ -150,7 +150,7 @@ The unit testing refers to testing individual units or functions of the Javascri
 Intigration testing involves in focusing on testing the interactions between different components or modules of your application. This testing ensures that these components work together as expected. Examples of tools of integration testing are Jest, Cypress and Selenium.
 
 3. End-to-End (E2E) Testing
-E2E testing replicate the user interations with your application to ensure that it functions correctly as a whole. E2E testing often involves automating interactions with a web browser or a mobile application. Some of the popular types of E2E testings are Cypress, Puppeteer and WebDriver.io.
+E2E testing replicate the user interactions with your application to ensure that it functions correctly as a whole. E2E testing often involves automating interactions with a web browser or a mobile application. Some of the popular types of E2E testings are Cypress, Puppeteer and WebDriver.io.
 
 4. Functional Testing
 Functional testing involves to verify that your application's features and functionalities work as expected. This mainly involves testing user interfaces, user flows, and user interactions. Examples of frameworks for functional testings are Testcafe and Playwrite.
@@ -189,6 +189,52 @@ Manual Testing involve the process of testing software manually without using au
 
 
 ### Testing in this application
+
+The following testings have been performed.
+
+### Functionality Testing
+
+The objectives of the functionality testing is to assess whether the features and functionalities work as expected.
+
+#### Functionality Testing Results
+
+- Test Case 1:Verify navigation to "Todo List" page.
+     Result: Pass
+- Test Case 2: Add new todo item to the list.
+     Result: Fail
+     Issue: "add" button was not programmed for empty or invalid input data.
+     Fix: add alert message if pressed "add" button without entering the required inputs
+- Test Case 3: Functioning of the "Delete" button.
+     Result: Pass
+
+!["Add" button without entering required todo items ](assets/images/stop-watch.png)
+
+
+#### Userbility Testing 
+The objective of the userbility testing is to evaluate the ease of use and user experience.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Considering the automation and manual testing, in this application manual testings have been performed. And also other reasons for performing manual testings are, 
 * Human observation can be used in this application which can be useful to offer user-friendly system.
