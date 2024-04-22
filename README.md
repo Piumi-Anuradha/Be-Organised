@@ -2,7 +2,7 @@
 
 "Be organised and achieve the dreams" application is designed to be responsive that allow visitors to view on a range of devices. And also it helps the visitors to be organised in their day today work and to reach the dreams.
 
-![Am I responsive](assets/images/main.png)
+![Am I responsive](assets/css/images/main.png)
 
 **********************
 
@@ -58,7 +58,7 @@
 
 ### Color scheme
 
-![Color themes](assets/images/coolers.png)
+![Color themes](assets/css/images/coolers.png)
 
 The web application uses a palette of colours that are used in BE ORGANISED AND ACHIEVE THE DREAMS logo, images, buttons and menues. The colour palette was created using the Coolors website.
 
@@ -75,19 +75,19 @@ Wireframes were created for mobile, tablet and desktop.
 
 ### Home Page Wireframe
 
-![Be Organised](assets/images/frontpage.png)
+![Be Organised](assets/css/images/frontpage.png)
 **********************
 
 
 ### Todolist to be prepared Wireframe
-![todolist to be prepared](assets/images/to-do-list.png)
+![todolist to be prepared](assets/css/images/to-do-list.png)
 **********************
 ### Todolist to be prepared Wireframe with alert box
-![todolist to be prepared](assets/images/to-do-list-page-with-alert-box.png)
+![todolist to be prepared](assets/css/images/to-do-list-page-with-alert-box.png)
 **********************
 
 ### Timer Wireframe
-![The Timer to Stay Focused](assets/images/stop-watch.png)
+![The Timer to Stay Focused](assets/css/images/stop-watch.png)
 **********************
 
 ## FEATURES
@@ -207,8 +207,8 @@ The objectives of the functionality testing is to assess whether the features an
 - Test Case 3: Functioning of the "Delete" button.
      Result: Pass
 
-!["Add" button without entering required todo items ](assets/images/add-button.png)
-![After fixing the "Add" button](assets/images/after-fixing-add.png)
+!["Add" button without entering required todo items ](assets/css/images/add-button.png)
+![After fixing the "Add" button](assets/css/images/after-fixing-add.png)
 
 
 ### Userbility Testing 
@@ -255,25 +255,25 @@ W3C Validator has been used to validate all three HTML pages and CSS pages.
 The screen shots are as follows:
 
 ### HTML W3C Validator for index, stopwatch and todolist pages
-![index.html](assets/images/index-css-validation.png)
+![index.html](assets/css/images/index-css-validation.png)
 *********
-![todolist.html](assets/images/todolist-no-errors.png)
+![todolist.html](assets/css/images/todolist-no-errors.png)
 *********
-![stopwatch.html](assets/images/stopwatch-no-errors.png)
+![stopwatch.html](assets/css/images/stopwatch-no-errors.png)
 ********
 
 ### CSS W3C Validator for index.css, stopwatch and for the todo list page
 
 
-![index.css](assets/images/index-css-validation.png)
+![index.css](assets/css/images/index-css-validation.png)
 ********
-![stopwatch.css](assets/images/stopwatch-css-validation.png)
+![stopwatch.css](assets/css/images/stopwatch-css-validation.png)
 **********
-![todolist.css](assets/images/todolist-css-validation.png)
+![todolist.css](assets/css/images/todolist-css-validation.png)
 ***********
 
 ### JSHint for Javascript
-![jshint](assets/images/todolist-jshin.png)
+![jshint](assets/css/images/todolist-jshin.png)
 
 *********
 
@@ -281,9 +281,9 @@ The screen shots are as follows:
 
 The following screenshot shows the first time visitor goals and these goals have been achieved below.
  *****************
-![Final Product that the users expected](assets/images/final.png)
+![Final Product that the users expected](assets/css/images/final.png)
 *************************
-![Final Product that the users expected](assets/images/final-to-do.png)
+![Final Product that the users expected](assets/css/images/final-to-do.png)
 
 **********************
 
@@ -306,7 +306,7 @@ Chrome developer, Lighthouse has been used to test the performance, accesibility
 Lighthouse
 I used Lighthouse within the Chrome Developer Tools to allow me to test the performance, accessibility, best practices and SEO of the website.
 **************
-![lighthouse](assets/images/lighthouse.png)
+![lighthouse](assets/css/images/lighthouse.png)
 ***********
 
 ## CREDIT
