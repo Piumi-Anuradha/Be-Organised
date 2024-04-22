@@ -281,11 +281,21 @@ The screen shots are as follows:
 
 The following screenshot shows the first time visitor goals and these goals have been achieved below.
  *****************
-![Final Product that the users expected](assets/images/final.png)
-*************************
-![Final Product that the users expected](assets/images/final-to-do.png)
+The following screenshots of To-Do-List show what the users of the application expected from a To-do-List.
 
+![Final Product that the users expected](assets/images/usertesting-to-do-one.png)
+*************************
+![Final Product that the users expected](assets/images/usertesting-to-do-two.png)
 **********************
+![Final Product that the users expected](assets/images/usertesting-to-do-three.png)
+
+The following screenshots of Timer show what the users of the application expected from a Timer.
+**********************
+![Final Product that the users expected](assets/images/usertesting-timer-startbutton.png)
+*************************
+![Final Product that the users expected](assets/images/usertesting-timer-one.png)
+**********************
+![Final Product that the users expected](assets/images/userstories.timer.resetbutton.png)
 
 ### First time visitor
 1. This application has a very easy allocation of the task that needs to be achieved and the time allocation is very straight forward that can be set easily and clearly.
