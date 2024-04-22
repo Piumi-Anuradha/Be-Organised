@@ -291,9 +291,9 @@ The following screenshots of To-Do-List show what the users of the application e
 
 The following screenshots of Timer show what the users of the application expected from a Timer.
 **********************
-![Final Product that the users expected](assets/images/usertesting-timer-startbutton.png)
-*************************
 ![Final Product that the users expected](assets/images/usertesting-timer-one.png)
+*************************
+![Final Product that the users expected](assets/images/usertesting-timer-startbutton.png)
 **********************
 ![Final Product that the users expected](assets/images/userstories.timer.resetbutton.png)
 
